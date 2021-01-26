@@ -232,3 +232,18 @@ footer{
 #team{
   padding-bottom: 100px;
 }
+
+.icon_flag{
+  float: right;
+  margin-left: 10px;
+  margin-right:10px;
+  margin-top:10px;
+  height: 35px;
+  width: 40px;
+}
+.language{
+  width: 10%;
+  float: right;
+  padding: 14px 16px;
+
+}
