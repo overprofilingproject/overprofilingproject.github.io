@@ -252,3 +252,31 @@ footer{
   text-align: center;
   font-size: 14px;
 }
+.footer_link{
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.footer_menu_ul{
+  list-style-type: none;
+  margin-left: 42%;
+  margin-right:42%;
+}
+.footer_menu_ul li{
+  float: center;
+  padding: 7px 7px;
+}
+
+.footer_menu_ul li a {
+  background-color: transparent;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 7px 8px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.footer_menu_ul li a:hover {
+  background-color: #111;
+}
