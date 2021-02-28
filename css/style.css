@@ -247,3 +247,8 @@ footer{
   padding: 14px 16px;
 
 }
+
+#permissions_text{
+  text-align: center;
+  font-size: 14px;
+}
